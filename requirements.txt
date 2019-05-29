@@ -1,0 +1,4 @@
+# para rodar: pip install -r requirements.txt
+pandas
+numpy
+scipy
